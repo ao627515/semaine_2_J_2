@@ -49,15 +49,14 @@ Pour exécuter un programme, ouvrez le fichier correspondant dans le dossier `li
 - Prénom : Abdoul Aziz
 - Pseudo Discord : Abdoul Aziz Ouedraogo
 -----------------------------------------
-- Nom : [Votre Nom]
-- Prénom : [Votre Prénom]
-- Pseudo Discord : [Votre Pseudo]
+- Nom : SO
+- Prénom : Kevin Jonas
+- Pseudo Discord : Jonas Kevin So
 -----------------------------------------
-- Nom : [Votre Nom]
-- Prénom : [Votre Prénom]
-- Pseudo Discord : [Votre Pseudo]
+- Nom : Zoundete
+- Prénom : Gisèle
+- Pseudo Discord : Gisèle Zoundete
 -----------------------------------------
-- Nom : [Votre Nom]
-- Prénom : [Votre Prénom]
-- Pseudo Discord : [Votre Pseudo]
------------------------------------------
+- Nom : Lankoande
+- Prénom : Joseph
+- Pseudo Discord : Joseph Lankoande
